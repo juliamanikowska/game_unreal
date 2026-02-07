@@ -23,6 +23,17 @@
 				"D:/game_unreal/game_unreal/Content/Input/IA_Move.uasset",
 				"D:/game_unreal/game_unreal/Content/Input/IMC_Game.uasset",
 				"D:/game_unreal/game_unreal/Content/GM_Game.uasset",
+				"D:/game_unreal/game_unreal/Content/Fab/Animated_Halloween_Bat/animated_halloween_bat/SkeletalMeshes/BatFlying.uasset",
+				"D:/game_unreal/game_unreal/Content/Fab/Animated_Halloween_Bat/animated_halloween_bat/SkeletalMeshes/BatRest.uasset",
+				"D:/game_unreal/game_unreal/Content/Fab/Animated_Halloween_Bat/animated_halloween_bat/SkeletalMeshes/BatSleeping.uasset",
+				"D:/game_unreal/game_unreal/Content/Fab/Animated_Halloween_Bat/animated_halloween_bat/SkeletalMeshes/animated_halloween_bat.uasset",
+				"D:/game_unreal/game_unreal/Content/Fab/Animated_Halloween_Bat/animated_halloween_bat/SkeletalMeshes/animated_halloween_bat_PhysicsAsset.uasset",
+				"D:/game_unreal/game_unreal/Content/Fab/Animated_Halloween_Bat/animated_halloween_bat/SkeletalMeshes/animated_halloween_bat_Skeleton.uasset",
+				"D:/game_unreal/game_unreal/Content/Fab/Animated_Halloween_Bat/animated_halloween_bat/Textures/animated_halloween_bat_texture_0.uasset",
+				"D:/game_unreal/game_unreal/Content/Fab/Animated_Halloween_Bat/animated_halloween_bat/Textures/animated_halloween_bat_texture_1.uasset",
+				"D:/game_unreal/game_unreal/Content/Fab/Animated_Halloween_Bat/animated_halloween_bat/Textures/animated_halloween_bat_texture_2.uasset",
+				"D:/game_unreal/game_unreal/Content/Fab/Animated_Halloween_Bat/animated_halloween_bat/Textures/animated_halloween_bat_texture_3.uasset",
+				"D:/game_unreal/game_unreal/Content/Fab/Animated_Halloween_Bat/animated_halloween_bat/Materials/material.uasset",
 				"D:/game_unreal/game_unreal/Content/NewWorld.umap"
 			]
 		}
