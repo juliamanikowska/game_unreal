@@ -1,8 +1,44 @@
-2026/02/06-16:31:47.972 5b98 Creating DB D:/game_unreal/game_unreal/Saved/webcache_4430\Local Storage\leveldb since it was missing.
-2026/02/06-16:31:47.996 5b98 Reusing MANIFEST D:/game_unreal/game_unreal/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2026/02/06-16:41:55.358 6084 Level-0 table #5: started
-2026/02/06-16:41:55.365 6084 Level-0 table #5: 76427 bytes OK
-2026/02/06-16:41:55.367 6084 Delete type=0 #3
-2026/02/06-16:45:20.518 3844 Level-0 table #7: started
-2026/02/06-16:45:20.522 3844 Level-0 table #7: 79158 bytes OK
-2026/02/06-16:45:20.524 3844 Delete type=0 #4
+2026/02/07-21:14:31.887 35b4 Reusing MANIFEST D:/game_unreal/game_unreal/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2026/02/07-21:14:31.901 35b4 Recovering log #6
+2026/02/07-21:14:31.901 35b4 Level-0 table #9: started
+2026/02/07-21:14:31.906 35b4 Level-0 table #9: 86146 bytes OK
+2026/02/07-21:14:31.909 35b4 Delete type=0 #6
+2026/02/07-21:17:57.585 3a78 Level-0 table #12: started
+2026/02/07-21:17:57.589 3a78 Level-0 table #12: 90418 bytes OK
+2026/02/07-21:17:57.591 3a78 Delete type=0 #10
+2026/02/07-21:19:57.577 5d88 Level-0 table #14: started
+2026/02/07-21:19:57.581 5d88 Level-0 table #14: 71250 bytes OK
+2026/02/07-21:19:57.583 5d88 Delete type=0 #11
+2026/02/07-21:21:57.588 326c Level-0 table #16: started
+2026/02/07-21:21:57.592 326c Level-0 table #16: 77402 bytes OK
+2026/02/07-21:21:57.594 326c Delete type=0 #13
+2026/02/07-21:21:57.625 326c Compacting 4@0 + 1@1 files
+2026/02/07-21:21:57.628 326c Generated table #17@0: 3 keys, 39324 bytes
+2026/02/07-21:21:57.628 326c Compacted 4@0 + 1@1 files => 39324 bytes
+2026/02/07-21:21:57.629 326c compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/02/07-21:21:57.629 326c Delete type=2 #7
+2026/02/07-21:21:57.629 326c Delete type=2 #9
+2026/02/07-21:21:57.629 326c Delete type=2 #12
+2026/02/07-21:21:57.629 326c Delete type=2 #14
+2026/02/07-21:21:57.629 326c Delete type=2 #16
+2026/02/07-21:23:57.573 2dd8 Level-0 table #19: started
+2026/02/07-21:23:57.577 2dd8 Level-0 table #19: 79355 bytes OK
+2026/02/07-21:23:57.578 2dd8 Delete type=0 #15
+2026/02/07-21:25:57.573 46bc Level-0 table #21: started
+2026/02/07-21:25:57.577 46bc Level-0 table #21: 79682 bytes OK
+2026/02/07-21:25:57.579 46bc Delete type=0 #18
+2026/02/07-21:27:57.579 5808 Level-0 table #23: started
+2026/02/07-21:27:57.583 5808 Level-0 table #23: 79898 bytes OK
+2026/02/07-21:27:57.585 5808 Delete type=0 #20
+2026/02/07-21:29:30.895 214c Level-0 table #25: started
+2026/02/07-21:29:30.897 214c Level-0 table #25: 80330 bytes OK
+2026/02/07-21:29:30.899 214c Delete type=0 #22
+2026/02/07-21:29:30.905 214c Compacting 4@0 + 1@1 files
+2026/02/07-21:29:30.909 214c Generated table #26@0: 3 keys, 40408 bytes
+2026/02/07-21:29:30.909 214c Compacted 4@0 + 1@1 files => 40408 bytes
+2026/02/07-21:29:30.909 214c compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/02/07-21:29:30.910 214c Delete type=2 #17
+2026/02/07-21:29:30.910 214c Delete type=2 #19
+2026/02/07-21:29:30.910 214c Delete type=2 #21
+2026/02/07-21:29:30.910 214c Delete type=2 #23
+2026/02/07-21:29:30.910 214c Delete type=2 #25
